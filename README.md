@@ -155,7 +155,7 @@ url = "ENTER DB CONNECTION STRING HERE"
 
 With your Azure MongoDB connection string
 
-```
+```python
 database = client['ENTER DB NAME HERE']
 ```
 
