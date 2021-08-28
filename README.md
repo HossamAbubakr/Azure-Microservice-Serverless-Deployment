@@ -22,13 +22,13 @@ This Craiglist clone was configured and deployed to Azure as part of my **Cloud 
 
 #### Azure services
 
-Azure Functions
-Azure Event Hub
-Azure Logic Apps
-Azure Kubernetes
-Azure App Service
-Azure Container Registry
-Azure Cosmos DB - MongoDB
+Azure Functions   
+Azure Event Hub   
+Azure Logic Apps   
+Azure Kubernetes   
+Azure App Service   
+Azure Container Registry   
+Azure Cosmos DB - MongoDB   
 
 #### Containerization
 
